@@ -1,0 +1,36 @@
+{
+  "BlogPost": {
+    "id": null,
+    "title": null,
+    "shortDescription": null,
+    "content": null,
+    "previewImageUrl": null,
+    "previewImageUrlFallback": null,
+    "updatedDate": "0001-01-01T00:00:00",
+    "tags": null,
+    "isPublished": false,
+    "likes": 0
+  },
+  "Introduction": {
+    "id": null,
+    "backgroundUrl": null,
+    "profilePictureUrl": null,
+    "description": null
+  },
+  "ProfileInformationEntry": {
+    "id": null,
+    "content": null,
+    "sortOrder": 0
+  },
+  "Skill": {
+    "id": null,
+    "iconUrl": null,
+    "name": null,
+    "capability": null,
+    "proficiencyLevel": 0
+  },
+  "Tag": {
+    "id": null,
+    "content": null
+  }
+}

@@ -6,7 +6,7 @@
         <div class="profile-picture" style="--profile-image: url(@Configuration.Introduction.ProfilePictureUrl)">
         </div>
         <div class="profile-text d-flex flex-column">
-            <div>@MarkdownConverter.ToMarkupString(Configuration.Introduction.Description)</div>
+            <div class="inverted-colors">@MarkdownConverter.ToMarkupString(Configuration.Introduction.Description)</div>
             <SocialAccounts Social="@Configuration.Social"></SocialAccounts>
         </div>
     </div>

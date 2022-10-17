@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "LinkDotNet.Blog.IntegrationTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57472;http://localhost:57476"
+    }
+  }
+}

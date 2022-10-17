@@ -1,46 +1,37 @@
 ﻿:root {
     /* Color definitions */
-    --ceramic: #FCFFF5;
+    --ceramic: #ede498;
     --tana: #D1DBBD;
     --pewter: #91AA9D;
     --william: #3E606F;
-    --big-stone: #193441;  
-
+    --big-stone: #193441;
     --white: #ffffff;
     --wild-sand: #f4f4f4;
     --silver: #DADADA;
-
     /* Fonts */
     --default-font: 'Calibri';
     --code-font: 'Lucida Console', 'Courier New';
-
     /* Usages - this colors have to be defined in every theme */
     --active-link: var(--big-stone);
     --disabled-link: var(--pewter);
     --link-hover: var(--tana);
     --active-link-inverted: var(--ceramic);
     --link-hover-inverted: var(--tana);
-
     --header1: var(--william);
     --header1-inverted: var(--ceramic);
     --header2: var(--pewter);
     --text-color: var(--big-stone);
     --text-color-inverted: var(--ceramic);
-
     --navbar-background: #f4f4f4d0;
-
     --blockquote-background: var(--wild-sand);
     --blockquote-border: var(--william);
-    
     --button-text-color: var(--wild-sand);
     --button-primary-color: var(--william);
     --button-primary-border-color: var(--big-stone);
     --button-primary-hover-color: var(--big-stone);
     --button-secondary-color: var(--big-stone);
     --button-secondary-border-color: var(--big-stone);
-
     --blog-post-background-color: var(--big-stone);
-
     --background-gradient-start: var(--wild-sand);
     --background-gradient-end: var(--silver);
 }
